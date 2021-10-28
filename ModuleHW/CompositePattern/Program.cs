@@ -1,8 +1,8 @@
-﻿namespace ModuleHW
+﻿namespace ModuleHW.CompositePattern
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             var starter = new Starter();
             starter.Run();
